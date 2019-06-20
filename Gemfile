@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0'
+gem 'rails'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~>1.3.7'
 gem 'nokogiri', '1.8'
